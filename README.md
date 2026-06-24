@@ -2,12 +2,15 @@
 
 # Hi there, I'm Cristian Ortega 👋
 
-### Electronics Engineering Student | IoT Developer | Mobile App Developer | AI Enthusiast
-
 </div>
 <img src="https://res.cloudinary.com/dbpcmxdx4/image/upload/v1782309448/Presentacion/Presentacion_ekt5ur.png">
 
----
+<div align="center">
+
+
+### Electronics Engineering Student | IoT Developer | Mobile App Developer | AI Enthusiast
+
+</div>
 
 ## 🚀 About Me
 
@@ -44,13 +47,13 @@
 * Raspberry Pi
 * ESP32
 * Arduino
-* Ultrasonic Sensors
+* FPGA
 
 ### Software & Tools
 
 * Git
 * GitHub
-* MATLAB
+* Expo Go
 * VS Code
 
 ### Cloud & AI
@@ -58,6 +61,7 @@
 * TensorFlow.js
 * AWS Rekognition
 * Cloudinary
+* MongoDB
 
 ---
 
@@ -105,8 +109,9 @@ Web platform for motorcycle spare parts management and maintenance service reque
 
 ## 📫 Contact
 
-📧 [your-email@example.com](mailto:your-email@example.com)
-
-🔗 GitHub: https://github.com/CristianDJOM
+📱 Phone: +57 301 528 1728
+📧 Email: cristianortegamontes43@gmail.com
+📍 Sincelejo, Colombia
+🔗 GitHub: github.com/CristianDJOM
 
 </div>
