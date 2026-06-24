@@ -8,7 +8,8 @@
 <div align="center">
 
 
-### Electronics Engineering Student | IoT Developer | Mobile App Developer | AI Enthusiast
+### 🎓 Electronics Engineering Student
+### 💻 Mobile Developer | 🤖 AI Enthusiast | ⚡ IoT Developer
 
 </div>
 
@@ -112,8 +113,11 @@ Web platform for motorcycle spare parts management and maintenance service reque
 ## 📫 Contact
 
 📱 Phone: +57 301 528 1728
+
 📧 Email: cristianortegamontes43@gmail.com
+
 📍 Sincelejo, Colombia
+
 🔗 GitHub: github.com/CristianDJOM
 
 </div>
