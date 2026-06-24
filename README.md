@@ -5,6 +5,7 @@
 ### Electronics Engineering Student | IoT Developer | Mobile App Developer | AI Enthusiast
 
 </div>
+<img src="https://res.cloudinary.com/dbpcmxdx4/image/upload/v1782309448/Presentacion/Presentacion_ekt5ur.png">
 
 ---
 
