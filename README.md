@@ -118,6 +118,6 @@ Web platform for motorcycle spare parts management and maintenance service reque
 
 📍 Sincelejo, Colombia
 
-🔗 GitHub: github.com/CristianDJOM
+🔗 GitHub: https://github.com/CristianDJOM
 
 </div>
