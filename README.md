@@ -72,19 +72,28 @@
 
 ### 🚗 Microsleep Detection System
 
-Research project focused on detecting microsleep episodes in drivers using Raspberry Pi, night vision cameras, and a web platform developed with Node.js. The system generates alerts and stores monitoring statistics to improve road safety.
+Research project focused on detecting microsleep episodes in drivers using Raspberry Pi, night vision cameras, and a web platform developed with Node.js. The system generates real-time alerts and stores monitoring statistics to improve road safety. This project was presented at RedCOLSI regional and international research events.
+
+🔗 Repository: https://github.com/CristianDJOM/microsleep-detection-system
 
 ### 🏠 GuardianVision
 
 Smart home security system that combines facial recognition, mobile applications, and embedded hardware to detect intruders and manage authorized users.
 
+🔗 Repository: Coming Soon
+
 ### 💧 SmartTank
 
 IoT-based solution for monitoring water tank levels in real time using ESP32 and ultrasonic sensors, with a mobile application for remote visualization.
 
+🔗 Repository: Coming Soon
+
 ### 🏍️ ServiRepuestos
 
 Web platform for motorcycle spare parts management and maintenance service requests, developed using Node.js.
+
+🔗 Repository: Coming Soon
+
 
 ---
 
