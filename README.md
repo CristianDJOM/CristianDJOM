@@ -1,5 +1,6 @@
-## Hello, I'm Cristian Ortega 👋
-
+<div align="center">
+<h1 align="center">Hello, I'm Cristian Ortega 👋</h1>
+</div>
 <!--
 **CristianDJOM/CristianDJOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
