@@ -35,6 +35,8 @@
 * JavaScript
 * HTML
 * CSS
+* Python
+* C++
 
 ### Development
 
