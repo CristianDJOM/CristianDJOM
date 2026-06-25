@@ -80,7 +80,7 @@ Research project focused on detecting microsleep episodes in drivers using Raspb
 
 Smart home security system that combines facial recognition, mobile applications, and embedded hardware to detect intruders and manage authorized users.
 
-🔗 Repository: Coming Soon
+🔗 Repository: https://github.com/CristianDJOM/GuardianVision.git
 
 ### 💧 SmartTank
 
