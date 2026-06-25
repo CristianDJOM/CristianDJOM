@@ -96,6 +96,8 @@ Web platform for motorcycle spare parts management and maintenance service reque
 
 🔗 Live Demo: https://servi-repuestos.onrender.com/
 
+⚠️ **Note:** The website is hosted on a free server, so the initial loading time may be slightly longer than usual. Please allow a few seconds for the application to start.
+
 
 ---
 
